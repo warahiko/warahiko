@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=warahiko)](https://github.com/warahiko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warahiko&layout=compact)
+![Trophy](https://github-profile-trophy.vercel.app/?username=warahiko)
